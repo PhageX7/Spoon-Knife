@@ -10,5 +10,5 @@ Silver
 Fuchisa
 Gray
 Brown
-Red:w
+Red
 
